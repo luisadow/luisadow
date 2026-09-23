@@ -3,6 +3,7 @@
 **Physics student at TU Berlin — embedded systems, UAV & RF, data analysis, scientific ML**
 
 [![Website](https://img.shields.io/badge/Website-sadowski--dos--santos.de-0a66c2?style=flat-square)](https://sadowski-dos-santos.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--sadowski--dos--santos-0a66c2?style=flat-square)](https://www.linkedin.com/in/luis-sadowski-dos-santos/)
 [![Email](https://img.shields.io/badge/Email-luis%40sadowski--dos--santos.de-555?style=flat-square)](mailto:luis@sadowski-dos-santos.de)
 ![Location](https://img.shields.io/badge/Based_in-Berlin-555?style=flat-square)
 
